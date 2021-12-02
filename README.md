@@ -9,7 +9,17 @@ In Linux I use apt or yum to install almost all the required apps. In Windows, w
 
 But I want use latest windows tool, [WinGet](https://winget.run/).
 
-## Installation of window
+## Installation of winget and winget pacakges
+
+Visit https://winget.run/ and click on `Install winget` link on the navbar.
+
+Once winget is installed use the following commands to install packages.
+
+
+```bash
+winget install -e --id VideoLAN.VLC
+
+```
 
 
 # Linux
