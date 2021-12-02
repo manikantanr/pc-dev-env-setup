@@ -23,10 +23,11 @@ winget install -e --id SublimeHQ.SublimeMerge
 winget install -e --id JetBrains.IntelliJIDEA.Community
 winget install -e --id JetBrains.PyCharm.Community
 winget install -e --id Python.Python
+winget install -e --id Google.Chrome
 
 
 ```
-if you prefer standard way of downloading and installing software, use below links
+Sometimes, winget repository might have old version of software, then we can use of standard way of downloading and installing software using below links.
 
 - https://www.nvidia.com/download/index.aspx?lang=en-us
 - https://www.videolan.org/
