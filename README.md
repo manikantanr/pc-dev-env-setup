@@ -41,6 +41,7 @@ Sometimes, winget repository might have old version of software, then we can use
 - https://code.visualstudio.com/download
 - https://www.google.com/intl/en_in/chrome/
 - https://www.7-zip.org/
+- https://git-scm.com/downloads
 
 
 # Linux
