@@ -28,6 +28,7 @@ winget install -e --id Python.Python
 ```
 if you prefer standard way of downloading and installing software, use below links
 
+- https://www.nvidia.com/download/index.aspx?lang=en-us
 - https://www.videolan.org/
 - https://www.virtualbox.org/wiki/Downloads
 - https://www.oracle.com/java/technologies/downloads/ or https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
