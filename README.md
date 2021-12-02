@@ -39,7 +39,7 @@ Sometimes, winget repository might have old version of software, then we can use
 - https://www.sublimemerge.com/
 - https://www.perforce.com/downloads/helix-visual-client-p4v
 - https://code.visualstudio.com/download
-- 
+- https://www.google.com/intl/en_in/chrome/
 
 
 # Linux
