@@ -18,8 +18,26 @@ Once winget is installed use the following commands to install packages.
 
 ```bash
 winget install -e --id VideoLAN.VLC
+winget install -e --id SublimeHQ.SublimeText
+winget install -e --id SublimeHQ.SublimeMerge
+winget install -e --id JetBrains.IntelliJIDEA.Community
+winget install -e --id JetBrains.PyCharm.Community
+winget install -e --id Python.Python
+
 
 ```
+if you prefer standard way of downloading and installing software, use below links
+
+- https://www.videolan.org/
+- https://www.virtualbox.org/wiki/Downloads
+- https://www.oracle.com/java/technologies/downloads/ or https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
+- https://www.jetbrains.com/idea/download
+- https://www.jetbrains.com/pycharm/download
+- https://www.sublimetext.com/download
+- https://www.sublimemerge.com/
+- https://www.perforce.com/downloads/helix-visual-client-p4v
+- https://code.visualstudio.com/download
+- 
 
 
 # Linux
