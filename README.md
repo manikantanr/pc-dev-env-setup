@@ -24,6 +24,8 @@ winget install -e --id JetBrains.IntelliJIDEA.Community
 winget install -e --id JetBrains.PyCharm.Community
 winget install -e --id Python.Python
 winget install -e --id Google.Chrome
+winget install -e --id KeePassXCTeam.KeePassXC
+
 
 
 ```
@@ -44,6 +46,7 @@ Sometimes, winget repository might have old version of software, then we can use
 - https://git-scm.com/downloads
 - https://slack.com/intl/en-in/downloads/windows
 - https://zoom.us/download
+- https://keepassxc.org/download/#windows
 - 
 
 
