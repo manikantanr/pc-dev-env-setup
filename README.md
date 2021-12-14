@@ -53,3 +53,19 @@ Sometimes, winget repository might have old version of software, then we can use
 
 
 # Linux
+
+- https://authy.com/download/
+```bash
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install vlc -y
+
+wget https://get.docker.com/ -O docker_install.sh 
+bash docker_install.sh
+sudo usermod -aG docker $USER
+
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+
+
+
+```
