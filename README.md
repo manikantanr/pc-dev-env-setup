@@ -57,7 +57,7 @@ Sometimes, winget repository might have old version of software, then we can use
 - https://authy.com/download/
 ```bash
 sudo apt install ./google-chrome-stable_current_amd64.deb
-sudo apt install vlc -y
+sudo apt install vlc vim -y
 
 wget https://get.docker.com/ -O docker_install.sh 
 bash docker_install.sh
@@ -69,3 +69,14 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 
 ```
+## Java
+https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox
+
+sudo apt ./jdk-11.0.12_linux-x64_bin.deb
+
+sudo vim /etc/profile.d/jdk.sh
+export JAVA_HOME=/usr/lib/jvm/jdk-11.0.12/
+export PATH=$PATH:$JAVA_HOME/bin
+source /etc/profile.d/jdk.sh
+
+
