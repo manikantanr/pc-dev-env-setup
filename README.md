@@ -57,7 +57,9 @@ Sometimes, winget repository might have old version of software, then we can use
 - https://authy.com/download/
 ```bash
 sudo apt install ./google-chrome-stable_current_amd64.deb
-sudo apt install vlc vim -y
+sudo apt install vlc vim git -y
+sudo apt install openconnect -y
+
 
 wget https://get.docker.com/ -O docker_install.sh 
 bash docker_install.sh
